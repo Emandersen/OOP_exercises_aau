@@ -30,23 +30,23 @@ D. 67count
 B and D are invalid
 
 6. How do you create a single-line comment? How do you create a multiline comment?
-
+```
 Multiline /* */
 
 Single line //
-
+```
 7. Show the general form of the if statement. Show the general form of the for loop.
-
+```
 if (condition) {
     Code
 }
-
+```
 8. How do you create a block of code?
-
+```
 public static void main(String[] args) {
 
 }
-
+```
 9. The moon’s gravity is about 17 percent that of earth’s. Write a program that computes your effective weight on the moon.
 
 ## todo
