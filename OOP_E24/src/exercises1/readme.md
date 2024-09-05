@@ -115,9 +115,23 @@ The variable is initalised inside the scope of the for loop and not outside of i
 
 **6. Explain the difference between the prefix and postfix forms of the increment operator.**
 
+Using Postfix on the statement í (i++) will return the value of i and then increment it
+Using prefix on the statement i (++i) will increment i and then return the value
+
 **7. Show how a short-circuit AND can be used to prevent a divide-by-zero error.**
+Preventing Divide-By-Zero errors with Short-Circuit and A short-circuit. This will make sure division only happens if the denominator is non-zero, preventing errors.
+```
+if denominator != 0 and numerator / denominator > 1:
+    print("Valid division")
+```
+If ```denominator == 0```, the division is skipped, avoiding a divide-by-zero error.
 
 **8. In an expression, what type are byte and short promoted to?**
+
+- If either operand is of type double, the other is converted to double.
+- Otherwise, if either operand is of type float, the other is converted to float.
+- Otherwise, if either operand is of type long, the other is converted to long.
+- Otherwise, both operands are converted to type int.
 
 **9. In general, when is a cast needed?**
 
@@ -128,6 +142,8 @@ When converting one data type to another as an example the string "1" to an inte
 [Prime Number Checker](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises1/G_exercise.java)
 
 **11. Does the use of redundant parentheses affect program performance?**
+
+The expression will be simplified by the compiler thus not making an impact.
 
 **12. Does a block define a scope?**
 
@@ -152,9 +168,14 @@ if (condition) {
 
 **3. Given (Look in the book) to what if does the last else associate?**
 
+the "```if (x < 10) { ```" statement
+
 **4. Show the for statement for a loop that counts from 1000 to 0 by –2.**
+```for (int i = 1000; i >= 0; i -= 2)```
 
 **5. Is the following fragment valid?**
+
+It is invalid since the integer i is defined inside the scope of the for loop
 
 **6. Explain what break does. Be sure to explain both of its forms.**
 
@@ -162,9 +183,26 @@ Exits a loop or a switch prematurely
 
 **7. In the following fragment, after the break statement executes, what is displayed?**
 
+The while loop is broken so the forloop will print "after while" 10 times and then the snippet would print "after for" a single time
+
 **8. What does the following fragment print?**
 
+
+
 **9. The iteration expression in a for loop need not always alter the loop control variable by a fixed amount. Instead, the loop control variable can change in any arbitrary way. Using this concept, write a program that uses a for loop to generate and display the progression 1, 2, 4, 8, 16, 32, and so on.**
+```
+public class PowerOfTwo {
+    public static void main(String[] args) {
+        int numTerms = 7;
+        int value = 1;
+
+        for (int i = 0; i < numTerms; i++) {
+            System.out.println(value);
+            value *= 2;
+        }
+    }
+}
+```
 
 **10. The ASCII lowercase letters are separated from the uppercase letters by 32. Thus, to convert a lowercase letter to uppercase, subtract 32 from it. Use this information to write a program that reads characters from the keyboard. Have it convert all lowercase letters to uppercase, and all uppercase letters to lowercase, displaying the result. Make no changes to any other character. Have the program stop when the user enters a period. At the end, have the program display the number of case changes that have taken place.**
 
