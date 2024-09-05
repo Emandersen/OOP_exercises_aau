@@ -48,8 +48,24 @@ public static void main(String[] args) {
 }
 ```
 9. The moon’s gravity is about 17 percent that of earth’s. Write a program that computes your effective weight on the moon.
+```
+package exercises1;
 
-## todo
+import java.util.Scanner;
+
+public class H_exercise_1 {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter your weight in kg: ");
+        double weight = scanner.nextDouble();
+
+        weight = weight * 0.165;
+
+        System.out.println("Your weight on the moon is " + weight + " kg.");  
+    }
+}
+```
+
 
 10. Adapt Try This 1-2 so that it prints a conversion table of inches to meters. Display 12 feet of conversions, inch by inch. Output a blank line every 12 inches. (One meter equals approximately 39.37 inches.)
 
