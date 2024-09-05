@@ -121,11 +121,17 @@ The variable is initalised inside the scope of the for loop and not outside of i
 
 **9. In general, when is a cast needed?**
 
+When converting one data type to another as an example the string "1" to an inter
+
 **10. Write a program that finds all of the prime numbers between 2 and 100.**
+
+[Prime Number Checker](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises1/G_exercise.java)
 
 **11. Does the use of redundant parentheses affect program performance?**
 
 **12. Does a block define a scope?**
+
+Yes.
 
 
 # Chapter 3 self test
@@ -134,6 +140,16 @@ The variable is initalised inside the scope of the for loop and not outside of i
 
 **2. Show the general form of the if-else-if ladder.**
 
+```
+if (condition) {
+    code snippet 1
+} else if (condition) {
+    code snippet 2
+} else { 
+    code snippet 3
+}
+```
+
 **3. Given (Look in the book) to what if does the last else associate?**
 
 **4. Show the for statement for a loop that counts from 1000 to 0 by –2.**
@@ -141,6 +157,8 @@ The variable is initalised inside the scope of the for loop and not outside of i
 **5. Is the following fragment valid?**
 
 **6. Explain what break does. Be sure to explain both of its forms.**
+
+Exits a loop or a switch prematurely
 
 **7. In the following fragment, after the break statement executes, what is displayed?**
 
@@ -151,5 +169,7 @@ The variable is initalised inside the scope of the for loop and not outside of i
 **10. The ASCII lowercase letters are separated from the uppercase letters by 32. Thus, to convert a lowercase letter to uppercase, subtract 32 from it. Use this information to write a program that reads characters from the keyboard. Have it convert all lowercase letters to uppercase, and all uppercase letters to lowercase, displaying the result. Make no changes to any other character. Have the program stop when the user enters a period. At the end, have the program display the number of case changes that have taken place.**
 
 **11. What is an infinite loop?**
+
+A loop that doesn't have any way to end
 
 **12. When using break with a label, must the label be on a block that contains the break?**
