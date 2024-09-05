@@ -105,8 +105,13 @@ In Java, a boolean value can only be true or false, and it does not accept any n
 
 **using a single string, show the println( ) statement that produced it.**
 
+```
+System.out.println("One\nTwo\nThree")
+```
+
 **5. What is wrong with this fragment?**
 
+The variable is initalised inside the scope of the for loop and not outside of it, therefore it will not print anything in the console.
 
 **6. Explain the difference between the prefix and postfix forms of the increment operator.**
 
