@@ -206,8 +206,12 @@ public class PowerOfTwo {
 
 **10. The ASCII lowercase letters are separated from the uppercase letters by 32. Thus, to convert a lowercase letter to uppercase, subtract 32 from it. Use this information to write a program that reads characters from the keyboard. Have it convert all lowercase letters to uppercase, and all uppercase letters to lowercase, displaying the result. Make no changes to any other character. Have the program stop when the user enters a period. At the end, have the program display the number of case changes that have taken place.**
 
+[Case reverser](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises1/H_exercise_3.java)
+
 **11. What is an infinite loop?**
 
 A loop that doesn't have any way to end
 
 **12. When using break with a label, must the label be on a block that contains the break?**
+
+Yes.
