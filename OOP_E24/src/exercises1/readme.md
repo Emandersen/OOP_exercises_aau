@@ -65,29 +65,34 @@ public class H_exercise_1 {
     }
 }
 ```
-
+[Moon Gravity Conversion Program](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises1/H_exercise_1.java)
 
 10. Adapt Try This 1-2 so that it prints a conversion table of inches to meters. Display 12 feet of conversions, inch by inch. Output a blank line every 12 inches. (One meter equals approximately 39.37 inches.)
 
-## todo
+[Conversion Table program](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises1/H_exercise_2.java)
+
 
 11. If you make a typing mistake when entering your program, what sort of error will result?
 
-## todo
+Compilation error
 
 12. Does it matter where on a line you put a statement?
 
-# todo
+Generally it doesn't Java uses ; to end statements
 
 # Chapter 2 self test
 
-# to do
-
 1. Why does Java strictly specify the range and behavior of its primitive types?
+
+Java strictly specifies the range and behavior of its primitive types to make sure it has predictable behavior across different environments.
 
 2. What is Java’s character type, and how does it differ from the character type used by some other programming languages?
 
+Java’s character type is char, which is a 16-bit Unicode character, differing from some other languages that use 8-bit ASCII characters.
+
 3. A boolean value can have any value you like because any non-zero value is true. True or False?
+
+In Java, a boolean value can only be true or false, and it does not accept any non-zero value as true.
 
 4. Given this output, 
 
@@ -120,7 +125,7 @@ using a single string, show the println( ) statement that produced it.
 
 
 # Chapter 3 self test
-# todo
+### todo
 1. Write a program that reads characters from the keyboard until a period is received. Have the program count the number of spaces. Report the total at the end of the program.
 
 2. Show the general form of the if-else-if ladder.
