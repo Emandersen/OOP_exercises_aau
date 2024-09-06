@@ -30,11 +30,6 @@ This repository contains exercises for the Object-Oriented Programming (OOP) cou
    - [Prime Numbers](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises1/G_exercise.java)
    - [Inches to Meter](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises1/H_exercise_2.java)
 
-2.  [Exercises 2](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/exercises2)
+2. [Session 2](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/exercises2)
    - [Self Test Exercises](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises2/readme.md)
-   - dsa
-
-1. [Session 1](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/session1)
-   - [Hallo World](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/session1/A_HelloWorld.java)
-   - [Variable exercise](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/session1/B_Variables.java)
 
