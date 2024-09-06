@@ -14,6 +14,8 @@ This repository contains exercises for the Object-Oriented Programming (OOP) cou
    - [Scoping Exercise](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/session1/F_Exercise.java)
    - [While loop blocks](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/session1/G_WhileLoop.java)
    - [Math Function Exercise](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/session1/H_Exercise.java)
+
+2. [Session 2](localhost:8080)
   
 
 ## After Session Exercises
@@ -27,6 +29,8 @@ This repository contains exercises for the Object-Oriented Programming (OOP) cou
    - [Vowel Count](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises1/F_exercise.java)
    - [Prime Numbers](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises1/G_exercise.java)
    - [Inches to Meter](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises1/H_exercise_2.java)
+
+2.  [Exercises 2]()
 
 
 
