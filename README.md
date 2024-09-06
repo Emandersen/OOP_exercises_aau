@@ -20,7 +20,7 @@ This repository contains exercises for the Object-Oriented Programming (OOP) cou
 
 ## After Session Exercises
 1. [Exercises 1](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/exercises1)
-   - [Written Exercises](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises1/readme.md)
+   - [Self Test Exercises](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises1/readme.md)
    - [Feet to Meters](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises1/A_exercise.java)
    - [Vowel Checker](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises1/B_exercise.java)
    - [Celsius and Fahrenheit conversion](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises1/C_exercise.java)
@@ -30,7 +30,8 @@ This repository contains exercises for the Object-Oriented Programming (OOP) cou
    - [Prime Numbers](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises1/G_exercise.java)
    - [Inches to Meter](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises1/H_exercise_2.java)
 
-2.  [Exercises 2]()
+2.  [Exercises 2](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/exercises2)
+   - [Self Test Exercises](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises2/readme.md)
 
 
 
