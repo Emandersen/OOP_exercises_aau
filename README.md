@@ -33,5 +33,3 @@ This repository contains exercises for the Object-Oriented Programming (OOP) cou
 2.  [Exercises 2](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/exercises2)
    - [Self Test Exercises](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises2/readme.md)
 
-
-
