@@ -34,3 +34,7 @@ This repository contains exercises for the Object-Oriented Programming (OOP) cou
    - [Self Test Exercises](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises2/readme.md)
    - dsa
 
+1. [Session 1](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/session1)
+   - [Hallo World](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/session1/A_HelloWorld.java)
+   - [Variable exercise](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/session1/B_Variables.java)
+
