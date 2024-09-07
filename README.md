@@ -2,6 +2,8 @@
 
 This repository contains exercises for the Object-Oriented Programming (OOP) course held at AAU University
 
+The after session exercises comes from the book "Java: A Beginner’s Guide, 8th Edition" written by Herbert Schildt (ISBN: 978-1-26-044022-5). 
+
 ## Session Exercises
 
 1. [Session 1](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/session1)
