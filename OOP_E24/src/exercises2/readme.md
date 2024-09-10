@@ -2,28 +2,75 @@
 
 **1. What is the difference between a class and an object?**
 
+A class is a template/a structure for an object and an object is an instance of that class
+
+So a class defines the varibles in the object. 
+
 **2. How is a class defined?**
+```
+class Main() {
+  public static void main(String args[]) {
+    // code...
+  }
+}
+```
 
 **3. What does each object have its own copy of?**
 
+each object has its own values assigned to the varibles inside the object.
+2 objects made from the class car, can be made so one object has the car.color as red and the other has the car.color as blue.
+
 **4. Using two separate statements, show how to declare an object called counter of a class called MyCounter.**
+```
+MyCounter counter = new MyCounter;
+```
 
 **5. Show how a method called myMeth( ) is declared if it has a return type of double and has two int parameters called a and b.**
+```
+public double myMeth(int a, int b) {
+  // ...
+}
+```
 
 **6. How must a method return if it returns a value?**
+```
+return x;
+```
 
 **7. What name does a constructor have?**
+the same name as the class, so:
+```
+class leagueoflegends() {
+  int kills;
+  int assists;
+  int deaths;
+
+  leagueoflegends() {
+    kills = 0
+    assists = 5
+    deaths = 16
+  }
+}
+```
 
 **8. What does new do?**
 
+```new``` creates an object from a class, or an instance of that class.
+
 **9. What is garbage collection, and how does it work?**
+
+An instance of an object takes up system resources/memory, therefore garbage collection cleans up unused instances and makes sure that new instances can be created when needed.
+In constrast to a few other langauges java's garbage collection is automatic and happens when two conditions are true, if objects exists and if they are ready to be recycled.
 
 **10. What is this?**
 
+```this.**``` referes to the object itself, if i have a class called x which contains two public methods x and y. In method x i defined this.var as 10, then i would be able to access that varible inside method y by accessing this.var.
+
 **11. Can a constructor have one or more parameters?**
+A constructor can have multiple parameters.
 
 **12. If a method returns no value, what must its return type be?**
-
+```void```
 
 
 # Chapter 5 Self Check
