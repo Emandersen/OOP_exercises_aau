@@ -38,4 +38,8 @@ The after session exercises comes from the book "Java: A Beginner’s Guide, 8th
 
 2. [Session 2](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/exercises2)
    - [Self Test Exercises](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises2/readme.md)
+   - [Vehicle Object Example](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/session2/A_ClassesAndObjects/Vehicle.java)
+   - [Person Exercise](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/session2/A_ClassesAndObjects/exercise/Person.java)
+   - [References and aliasing](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/session2/B_ReferencesAndAliasing/Vehicle.java)
+   - 
 
