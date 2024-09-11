@@ -45,6 +45,10 @@ The after session exercises comes from the book "Java: A Beginner’s Guide, 8th
    - [Self Test Exercises](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises2/readme.md)
    - [Three classes](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises2/A_exercise.java)
    - [Book class](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises2/B_exercise.java)
+   - [Package exercise, nails](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises2/C_exercise.java)
+     - [Finger nail](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises2/finger/nail.java)
+     - [Metal nail](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises2/metal/nail.java)
+   - 
 
 
 
