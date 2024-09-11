@@ -26,10 +26,6 @@ The after session exercises comes from the book "Java: A Beginner’s Guide, 8th
    - [Person method exercise](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/session2/C_Methods/exercise/Person.java)
 
 
-
-2. [Session 2](localhost:8080)
-  
-
 ## After Session Exercises
 1. [Exercises 1](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/exercises1)
    - [Self Test Exercises](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises1/readme.md)
