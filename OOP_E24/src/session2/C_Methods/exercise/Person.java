@@ -39,11 +39,7 @@ public class Person {
         this.age = 28;
     }
 
-    public void printInfo() {
-        System.out.println(this.firstName);
-        System.out.println(this.lastName);
-        System.out.println(this.age);
-    }
+    public boolean checkLegalAge() { return this.age > 18 ; }
 
     public String getFormattedInfo() {
         String ageCheck;
@@ -55,11 +51,9 @@ public class Person {
         return this.firstName + ", " + this.lastName + " " + this.age + ", " + ageCheck;
     }
 
-    public boolean checkLegalAge() {
-        if (this.age > 18) {
-            return true;
-        } else {
-            return false;
-        }
+    public void printInfo() {
+        System.out.println(this.firstName);
+        System.out.println(this.lastName);
+        System.out.println(this.age);
     }
 }
