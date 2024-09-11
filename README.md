@@ -26,6 +26,8 @@ The after session exercises comes from the book "Java: A Beginner’s Guide, 8th
    - [Person method exercise](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/session2/C_Methods/exercise/Person.java)
    - [Constructor example](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/session2/D_Constructors/Vehicle.java)
    - [Constructor exercise](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/session2/D_Constructors/exercise/Person.java)
+   - [Bank Demo](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/session2/E_Encapsulation/BankAccountDemo.java) [Bank backend](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/session2/E_Encapsulation/bank/BankAccount.java)
+   - [Getter and setters](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/session2/E_Encapsulation/exercise/Person.java)
 
 
 ## After Session Exercises
