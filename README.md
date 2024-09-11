@@ -24,6 +24,8 @@ The after session exercises comes from the book "Java: A Beginner’s Guide, 8th
    - [References and aliasing](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/session2/B_ReferencesAndAliasing/Vehicle.java)
    - [Vehicle "this" example](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/session2/C_Methods/Vehicle.java)
    - [Person method exercise](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/session2/C_Methods/exercise/Person.java)
+   - [Constructor exampples](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/session2/D_Constructors/Vehicle.java)
+   - [Constructor exercise](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/session2/D_Constructors/exercise/Person.java)
 
 
 ## After Session Exercises
