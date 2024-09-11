@@ -42,7 +42,9 @@ The after session exercises comes from the book "Java: A Beginner’s Guide, 8th
    - [Inches to Meter](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises1/H_exercise_2.java)
 
 2. [Exercises 2](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/exercises2)
-   -    - [Self Test Exercises](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises2/readme.md)
+   - [Self Test Exercises](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises2/readme.md)
+   - [Three classes](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises2/A_exercise.java)
+   - [Book class](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises2/B_exercise.java)
 
 
 
