@@ -32,34 +32,32 @@ public class Person {
     public String firstName;
     public String lastName;
     public int age;
+    public String citizenship;
 
     Person() {
         this.firstName = "Anders";
         this.lastName = "Madsen";
         this.age = 28;
+        this.citizenship = "dk";
+    }
+
+    boolean checkLegalAge() { return this.age > 18 ; }
+
+    boolean isDanishCitizen() { return this.citizenship.equals("dk"); }
+
+    boolean canVote() { return this.checkLegalAge() && this.isDanishCitizen(); }
+
+    public String getFormattedInfo() {
+
+        // Using ternary operation to create an if else statement, (Condition) ? (True expression) : (False expression)
+        String ageCheck = checkLegalAge() ? "Above legal age" : "Below legal age";
+
+        return this.firstName + ", " + this.lastName + " " + this.age + ", " + ageCheck;
     }
 
     public void printInfo() {
         System.out.println(this.firstName);
         System.out.println(this.lastName);
         System.out.println(this.age);
-    }
-
-    public String getFormattedInfo() {
-        String ageCheck;
-
-        if (checkLegalAge()) { ageCheck = "Above legal age" ; }
-        else { ageCheck = "Below legal age" ; }
-
-
-        return this.firstName + ", " + this.lastName + " " + this.age + ", " + ageCheck;
-    }
-
-    public boolean checkLegalAge() {
-        if (this.age > 18) {
-            return true;
-        } else {
-            return false;
-        }
     }
 }
