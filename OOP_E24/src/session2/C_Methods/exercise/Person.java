@@ -9,10 +9,6 @@ package session2.C_Methods.exercise;
  *       or "Thomas, Nielsen, 14, Below Legal Age"
  */
 class Main {
-    private String firstName;
-    private String lastName;
-    private int age;
-
     public static void main(String[] args) {
         Person person = new Person();
 

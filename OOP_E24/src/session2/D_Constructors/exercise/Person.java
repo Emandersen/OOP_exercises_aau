@@ -14,10 +14,6 @@ package session2.D_Constructors.exercise;
  *      * E.g. ”Anders, M., Madsen” if there is a middle name.
  **/
 class Main {
-    private String firstName;
-    private String lastName;
-    private int age;
-
     public static void main(String[] args) {
         Person person = new Person("Frank", "Davis");
         Person person1 = new Person("Mary","James" ,"Smith");
@@ -29,11 +25,11 @@ class Main {
 
 
 public class Person {
-    public String firstName;
-    public String middleName;
-    public String lastName;
-    public int age;
-    public String citizenship;
+    private String firstName;
+    private String middleName;
+    private String lastName;
+    private int age;
+    private String citizenship;
 
     Person(String firstName, String middleName, String lastName) {
         this.firstName = firstName;

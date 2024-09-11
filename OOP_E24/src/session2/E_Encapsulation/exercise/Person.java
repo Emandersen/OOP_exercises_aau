@@ -12,10 +12,6 @@ package session2.E_Encapsulation.exercise;
  * Example solution
  */
 class Main {
-    private String firstName;
-    private String lastName;
-    private int age;
-
     public static void main(String[] args) {
         Person person1 = new Person("Frank", "Davis");
         Person person2 = new Person("Mary", "J.", "Smith");

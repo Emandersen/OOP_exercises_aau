@@ -7,10 +7,6 @@ package session2.A_ClassesAndObjects.exercise;
  * formatted as "Anders, Madsen, 28".
  */
 class Main {
-    private String firstName;
-    private String lastName;
-    private int age;
-
     public static void main(String[] args) {
         Person person = new Person();
         person.printInfo();
