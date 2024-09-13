@@ -49,6 +49,7 @@ The after session exercises comes from the book "Java: A Beginner’s Guide, 8th
      - [Finger nail](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises2/finger/nail.java)
      - [Metal nail](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises2/metal/nail.java)
    - [Bank Account](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises2/D_exercise.java)
+   - [Badminton Tournament](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises2/E_exercise.java)
 
 
 
