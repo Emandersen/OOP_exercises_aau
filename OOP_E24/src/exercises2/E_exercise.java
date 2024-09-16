@@ -16,12 +16,12 @@ the player statistics of each player accordingly.
 */
 
 class Player {
-    String firstName;
-    String lastName;
-    int age;
-    int wins;
-    int losses;
-    String sponsor;
+    private String firstName;
+    private String lastName;
+    private int age;
+    private int wins;
+    private int losses;
+    private String sponsor;
 
     Player(String fn, String ln, int a, int w, int l, String s) {
         this.firstName = fn;
@@ -52,9 +52,9 @@ class Player {
 }
 
 class Team {
-    String name;
-    Player player1;
-    Player player2;
+    private String name;
+    private Player player1;
+    private Player player2;
 
     Team(String n, Player p1, Player p2) {
         this.name = n;
@@ -87,8 +87,8 @@ class Team {
 }
 
 class Match {
-    Team redTeam;
-    Team blueTeam;
+    private Team redTeam;
+    private Team blueTeam;
 
     Match(Team t1, Team t2) {
         this.redTeam = t1;
