@@ -1,0 +1,52 @@
+package session3.Exercise4;
+/*Write a class to represent a person. A person has a name and
+an age. Write a subclass to represent an employee. An employee has a job
+title and a salary. Write a subclass to represent a manager. A manager
+has bonus which is added on top of his or her base salary. Add appropriate
+constructors for each class. */
+public class Demo {
+
+    public static void main(String[] args) {
+        
+        //Person Objects
+        System.out.println("Random people");
+
+        Person person1 = new Person("Felix", 25);
+        System.out.println("Name: " + person1.getName() + ", Age: " + person1.getAge());   
+
+        Person person2 = new Person("Alberte", 28);
+        System.out.println("Name: " + person2.getName() + ", Age: " + person2.getAge()); 
+        
+        Person person3 = new Person("Jakob", 26);
+        System.out.println("Name: " + person3.getName() + ", Age: " + person3.getAge() + '\n'); 
+
+
+        //Employee Objects
+        System.out.println("Employees");
+
+        Employee employee1 = new Employee("Nikolaj", 23, "Backend Developer", 60_000);
+        System.out.println("Name: " + employee1.getName() + ", Age: " + employee1.getAge() + ", Job: "
+        + employee1.getJob() + ", Salary: " + employee1.getSalary());
+
+        Employee employee2 = new Employee("Gustav", 22, "Frontend Developer", 60_000);
+        System.out.println("Name: " + employee2.getName() + ", Age: " + employee2.getAge() + ", Job: "
+        + employee2.getJob() + ", Salary: " + employee2.getSalary() + '\n');
+
+
+        //Manger Objects
+        System.out.println("Managers <33"); 
+
+        Manager manager1 = new Manager("Cecilie", 24, "Software Engineer", 100_000, 200_000);
+        manager1.calcTotalSalary();
+        System.out.println("Name: " + manager1.getName() + ", Age: " + manager1.getAge() + ", Job: "
+        + manager1.getJob() + ", Salary: " + manager1.getSalary() + ", Bonus: " + manager1.getBonus() 
+        + ", Total Salary: "+ manager1.getTotalSalary());
+
+        Manager manager2 = new Manager("Emil", 23, "Software Engineer", 100_000, 200_000);
+        manager2.calcTotalSalary();
+        System.out.println("Name: " + manager2.getName() + ", Age: " + manager2.getAge() + ", Job: "
+        + manager2.getJob() + ", Salary: " + manager2.getSalary() + ", Bonus: " + manager2.getBonus() 
+        + ", Total Salary: "+ manager2.getTotalSalary());
+    
+    }
+}
