@@ -27,6 +27,12 @@ The after session exercises comes from the book "Java: A Beginner’s Guide, 8th
    - [Constructor exercise](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/session2/D_Constructors/exercise/Person.java)
    - [Bank Demo](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/session2/E_Encapsulation/BankAccountDemo.java) [Bank backend](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/session2/E_Encapsulation/bank/BankAccount.java)
    - [Getter and setters](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/session2/E_Encapsulation/exercise/Person.java)
+  
+3. [Session 3](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/session3)
+   - [No interfaces and no inheritance](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/session3/A_DesignNoInterfaceNoInheritance)
+   - [Design with inheritance](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/session3/B_DesignWithInheritance)
+   - [Design with abstract classes](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/session3/C_DesignWithAbstractClass)
+   - [Design with interfaces](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/session3/D_DesignWithInterface)
 
 
 ## After Session Exercises
@@ -50,6 +56,8 @@ The after session exercises comes from the book "Java: A Beginner’s Guide, 8th
      - [Metal nail](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises2/metal/nail.java)
    - [Bank Account](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises2/D_exercise.java)
    - [Badminton Tournament](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises2/E_exercise.java)
+
+
 
 
 
