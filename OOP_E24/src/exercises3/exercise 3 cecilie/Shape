@@ -1,0 +1,12 @@
+package session3.Exercise3;
+/*Write an interface to represent a shape. The interface should
+have methods for computing the total area, the circumference, 
+and the number of edges of the shape. Write classes for each of these shapes: 
+square, rectangle, triangle, circle, and line. */
+public interface Shape {
+
+    double area();
+    double circumference();
+    int edges();
+
+}
