@@ -1,0 +1,21 @@
+package session3.Exercise2;
+
+public class Red implements Colour {
+    int red = 255;
+    int green = 0;
+    int blue = 0;
+    
+    public int getRed(){
+        return this.red;
+    }
+
+    public int getGreen(){
+        return this.green;
+    }
+
+    public int getBlue(){
+        return this.blue;
+    }
+}
+
+
