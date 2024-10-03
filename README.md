@@ -56,6 +56,13 @@ The after session exercises comes from the book "Java: A Beginner’s Guide, 8th
      - [Metal nail](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises2/metal/nail.java)
    - [Bank Account](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises2/D_exercise.java)
    - [Badminton Tournament](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises2/E_exercise.java)
+  
+3. [Exercises 3](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/exercises3)
+   - [Self Test Exercises]()
+   - []()
+   - [Colors exercises](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/exercises3/exercise%202%20cecilie)
+   - [Shapes Inherritance](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/exercises3/exercise%203%20cecilie)
+   - [Employee management](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/exercises3/exercise%204%20cecilie)
 
 
 
