@@ -34,11 +34,11 @@ The after session exercises comes from the book "Java: A Beginner’s Guide, 8th
    - [Design with abstract classes](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/session3/C_DesignWithAbstractClass)
    - [Design with interfaces](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/session3/D_DesignWithInterface)
 
-4. [Session 4](OOP_E24\src\session4\A_Vehicle_Hierarchy)
-   - [Vehicle hierarchy exercise](OOP_E24\src\session4\A_Vehicle_Hierarchy\Exercise.java)
-   - [Multiple Inheritance](OOP_E24\src\session4\B_Multiple_Inheritance)
-      - [Exercise 1](OOP_E24\src\session4\B_Multiple_Inheritance\Exercise1.java)
-      - [Exercise 2](OOP_E24\src\session4\B_Multiple_Inheritance\Exercise2.java)
+4. [Session 4](OOP_E24/src/session4)
+   - [Vehicle hierarchy exercise](OOP_E24/src/session4/A_Vehicle_Hierarchy/Exercise.java)
+   - [Multiple Inheritance](OOP_E24/src/session4/B_Multiple_Inheritance)
+      - [Exercise 1](OOP_E24/src/session4/B_Multiple_Inheritance/Exercise1.java)
+      - [Exercise 2](OOP_E24/src/session4/B_Multiple_Inheritance/Exercise2.java)
 
 
 ## After Session Exercises
