@@ -64,11 +64,11 @@ The after session exercises comes from the book "Java: A Beginner’s Guide, 8th
    - [Badminton Tournament](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises2/E_exercise.java)
   
 3. [Exercises 3](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/exercises3)
-   - [Self Test Exercises]()
+   - [Self Test Exercises](OOP_E24/src/exercises3/readme.md)
    - []()
-   - [Colors exercises](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/exercises3/exercise%202%20cecilie)
-   - [Shapes Inherritance](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/exercises3/exercise%203%20cecilie)
-   - [Employee management](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/exercises3/exercise%204%20cecilie)
+   - [Colors exercises](OOP_E24/src/exercises3/exercise_2)
+   - [Shapes Inherritance](OOP_E24/src/exercises3/exercise_4)
+   - [Employee management](OOP_E24/src/exercises3/exercise_4)
 
 
 
