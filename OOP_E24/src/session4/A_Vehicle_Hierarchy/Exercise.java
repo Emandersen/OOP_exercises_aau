@@ -1,6 +1,6 @@
 package session4.A_Vehicle_Hierarchy;
 
-import session4.B_Multiple_Inheritance.Vehicle;
+import session4.A_Vehicle_Hierarchy.Vehicle;
 
 /**
  * Exercise:
@@ -36,18 +36,5 @@ public class Exercise {
          */
         //System.out.println(volvo.goFast()); //Compilation Error
 
-
-        /*
-        //Did you have time to finish the exercise?
-        boolean I_did_finish = true;
-
-        //Did you understand the concepts used in the exercise?
-        boolean I_did_understand = true;
-
-        //Any comments
-        String comment = "No comments";
-
-        feedback.Feedback.submit("session4_A", I_did_finish, I_did_understand, comment);
-    */
     }
 }

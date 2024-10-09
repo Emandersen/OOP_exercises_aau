@@ -30,13 +30,13 @@ public class Exercise1 {
         /**
          * TeslaModelS's objects have the speed method because they are Vehicle's objects too.
          */
-        //TeslaModelS teslaModelS = new TeslaModelS();
+        TeslaModelS teslaModelS = new TeslaModelS();
         //System.out.println(teslaModelS.speed());
 
         /**
          * TeslaModelS's objects do have the "batteryLevel"method because they also are ElectricVehicle's objects.
          */
-        //System.out.println(teslaModelS.batteryLevel());
+        System.out.println(teslaModelS.batteryLevel());
 
 
 
