@@ -1,0 +1,27 @@
+package session3.Exercise4;
+
+public class Manager extends Employee {
+
+    private int bonus;
+    private int totalSalary;
+
+    // Constructor
+    Manager(String name, int age, String job, int salary, int bonus){
+        super(name, age, job, salary);
+        this.bonus = bonus;
+    }
+
+    // Method for calculating the manager's total salary
+    public void calcTotalSalary(){
+        totalSalary = getSalary() + bonus;
+    }
+
+    public int getBonus(){
+        return bonus;
+    }
+
+    public int getTotalSalary(){
+        return totalSalary;
+    }
+
+}

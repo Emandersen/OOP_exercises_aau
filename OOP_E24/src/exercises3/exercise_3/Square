@@ -1,0 +1,24 @@
+package session3.Exercise3;
+
+public class Square implements Shape{
+    public int width;
+    public int height;
+    public int edge;
+
+    Square(){
+        width = height = 5;
+        edge = 4;
+    }
+
+    public double area(){
+        return width * height;
+    }
+
+    public double circumference(){
+        return 4 * width;
+    }
+
+    public int edges(){
+        return edge;
+    }
+}
