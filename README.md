@@ -27,6 +27,18 @@ The after session exercises comes from the book "Java: A Beginner’s Guide, 8th
    - [Constructor exercise](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/session2/D_Constructors/exercise/Person.java)
    - [Bank Demo](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/session2/E_Encapsulation/BankAccountDemo.java) [Bank backend](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/session2/E_Encapsulation/bank/BankAccount.java)
    - [Getter and setters](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/session2/E_Encapsulation/exercise/Person.java)
+  
+3. [Session 3](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/session3)
+   - [No interfaces and no inheritance](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/session3/A_DesignNoInterfaceNoInheritance)
+   - [Design with inheritance](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/session3/B_DesignWithInheritance)
+   - [Design with abstract classes](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/session3/C_DesignWithAbstractClass)
+   - [Design with interfaces](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/session3/D_DesignWithInterface)
+
+4. [Session 4](OOP_E24/src/session4)
+   - [Vehicle hierarchy exercise](OOP_E24/src/session4/A_Vehicle_Hierarchy/Exercise.java)
+   - [Multiple Inheritance](OOP_E24/src/session4/B_Multiple_Inheritance)
+      - [Exercise 1](OOP_E24/src/session4/B_Multiple_Inheritance/Exercise1.java)
+      - [Exercise 2](OOP_E24/src/session4/B_Multiple_Inheritance/Exercise2.java)
 
 
 ## After Session Exercises
@@ -50,6 +62,15 @@ The after session exercises comes from the book "Java: A Beginner’s Guide, 8th
      - [Metal nail](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises2/metal/nail.java)
    - [Bank Account](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises2/D_exercise.java)
    - [Badminton Tournament](https://github.com/Emandersen/OOP_exercises_aau/blob/master/OOP_E24/src/exercises2/E_exercise.java)
+  
+3. [Exercises 3](https://github.com/Emandersen/OOP_exercises_aau/tree/master/OOP_E24/src/exercises3)
+   - [Self Test Exercises](OOP_E24/src/exercises3/readme.md)
+   - []()
+   - [Colors exercises](OOP_E24/src/exercises3/exercise_2)
+   - [Shapes Inherritance](OOP_E24/src/exercises3/exercise_4)
+   - [Employee management](OOP_E24/src/exercises3/exercise_4)
+
+
 
 
 
