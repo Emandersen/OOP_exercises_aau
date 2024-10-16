@@ -74,6 +74,7 @@ The after session exercises comes from the book "Java: A Beginner’s Guide, 8th
 4. [Exercises 4](OOP_E24/src/exercises4)
    - [Self test Exercises](OOP_E24/src/exercises4/readme.md)
    - [Exercise 1-3](OOP_E24/src/exercises4/exercise1to3.md)
+   - [Vending Machine](OOP_E24/src/exercises4/exercise_4)
 
 
 
