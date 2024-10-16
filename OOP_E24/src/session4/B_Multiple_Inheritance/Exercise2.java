@@ -18,19 +18,12 @@ package session4.B_Multiple_Inheritance;
 public class Exercise2 {
 
     public static void main(String[] args) {
+        ElectricPetrolStation eStation = new ElectricPetrolStation();
 
-        /*
-        //Did you have time to finish the exercise?
-        boolean I_did_finish = true;
+        TeslaModelS tesla = new TeslaModelS();
 
-        //Did you understand the concepts used in the exercise?
-        boolean I_did_understand = true;
+        System.out.println("tesla battery" + tesla.batteryLevel());
 
-        //Any comments
-        String comment = "No comments";
-
-        feedback.Feedback.submit("session4_B2", I_did_finish, I_did_understand, comment);
-        */
-
+        eStation.chargeBattery(tesla);
     }
 }

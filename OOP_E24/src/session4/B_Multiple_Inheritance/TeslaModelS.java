@@ -1,7 +1,7 @@
 package session4.B_Multiple_Inheritance;
 
 public class TeslaModelS extends SportsCar implements ElectricVehicle {
-    private double battery = 100.0;
+    private double battery = 20.0;
 
     public int speed() {
         return 0;
